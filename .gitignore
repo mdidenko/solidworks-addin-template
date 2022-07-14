@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+*.user
+*.sln
+
+# Assembly
+bin/
+obj/
+packages/
+properties/
+
+# Logging
+*.log
+NLog.config
+NLog.xsd
